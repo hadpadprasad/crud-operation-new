@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 120,
+      "Comment": "Apple test is very nice",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
